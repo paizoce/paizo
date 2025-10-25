@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/paizoce/paizoce.github.io/issues"
   },
-  "homepage": "https://github.com/paizoce/paizoce.github.io#readme"
+  "homepage": "https://github.com/paizoce/paizoce.github.io#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
